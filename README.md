@@ -1,18 +1,18 @@
-## Getting Started
+# Condicionais - Aula 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Descrição:** Este projeto é uma aplicação simples em Java que demonstra o uso de estruturas condicionais (`if` e `else`). Com base no valor de uma variável booleana, o programa exibe mensagens diferentes no console.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Avalia uma condição booleana (`true` ou `false`).
+- Exibe uma mensagem se a condição for verdadeira (`if`) e uma mensagem alternativa se for falsa (`else`).
+- Exibe uma mensagem final fora da estrutura condicional.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java (versão 8 ou superior)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Pré-requisitos
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- JDK instalado (Java Development Kit).
+- IDE como Eclipse, IntelliJ, ou NetBeans, ou um editor de texto para rodar em linha de comando.
